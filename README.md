@@ -1,7 +1,7 @@
 # COSC480
-# Richard Fallow
+# New Zealand Covid-19 forecasting and timeseries (SIR model)
 
-New Zealand Covid-19 forecasting and timeseries (SIR model)
+Richard Fallow
 
 This repository consitsts of a main project directory with subdirectories containing a New Zealand Covid-19 forecasting model in a jupyter notebook and basic data visualisation notebooks in the Covid and data directories respectivly.
 
